@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_staff"
+			],
+			[
+				"ques",
+				"queryset_list"
+			],
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"sh",
+				"share_string"
+			],
+			[
+				"qu",
+				"quote_plus"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"pr",
+				"pre_save"
+			],
+			[
+				"U",
+				"upload_location"
+			],
+			[
+				"h",
+				"height_field"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"po",
+				"post_detail"
+			],
+			[
+				"p",
+				"post_create"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"Pos",
+				"PostAdmin"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"Q",
+				"QuestionAdmin"
+			],
+			[
+				"se",
+				"selected_choice"
+			],
+			[
+				"do",
+				"DoesNotExist"
+			],
+			[
+				"Choi",
+				"Choice"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"Ht",
+				"Http404"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"lo",
+				"loader"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"daet",
+				"datetime"
+			],
+			[
+				"da",
+				"DateTimeField"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"C",
+				"CharField"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/posts/views.py",
+			"settings":
+			{
+				"buffer_size": 2910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_list.html",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_detail.html",
+			"settings":
+			{
+				"buffer_size": 1697,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/forms.py",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 1795,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/urls.py",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1482,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/trydjango19/settings.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/templatetags/urlify.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/templatetags/__init__.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/trydjango19/urls.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/templates/base.html",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/templates/post_form.html",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/models.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/urls.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/static/css/base.css",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/templates/messages_display.html",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/forms.py",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/templates/index.html",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/crud.md",
+		"/home/suyash/Desktop/projectdajngo/trydjango19/src/posts/admin.py",
+		"/home/suyash/MyCode/myapp/login/views.py",
+		"/home/suyash/MyCode/myapp/login/urls.py",
+		"/home/suyash/MyCode/myapp/myapp/urls.py",
+		"/home/suyash/MyCode/myapp/login/templates/base.html",
+		"/home/suyash/MyCode/myapp/login/forms.py",
+		"/home/suyash/MyCode/myapp/myapp/settings.py",
+		"/home/suyash/MyCode/mysite/login/templates/base.html",
+		"/home/suyash/MyCode/mysite/polls/urls.py",
+		"/home/suyash/MyCode/mysite/login/views.py",
+		"/home/suyash/MyCode/mysite/mysite/settings.py",
+		"/home/suyash/MyCode/mysite/login/templates/registration/login.html",
+		"/home/suyash/MyCode/mysite/login/urls.py",
+		"/home/suyash/MyCode/mysite/mysite/urls.py",
+		"/home/suyash/MyCode/mysite/login/templates/registration/success.html",
+		"/home/suyash/MyCode/mysite/login/templates/registration/register.html",
+		"/home/suyash/MyCode/mysite/login/templates/home.html",
+		"/home/suyash/MyCode/mysite/login/forms.py",
+		"/home/suyash/MyCode/mysite/polls/admin.py",
+		"/home/suyash/MyCode/mysite/polls/static/polls/style.css",
+		"/home/suyash/MyCode/mysite/polls/templates/polls/results.html",
+		"/home/suyash/MyCode/mysite/polls/templates/polls/detail.html",
+		"/home/suyash/MyCode/mysite/polls/templates/polls/index.html",
+		"/home/suyash/MyCode/mysite/polls/tests.py",
+		"/home/suyash/MyCode/mysite/polls/models.py",
+		"/home/suyash/MyCode/mysite/polls/views.py",
+		"/usr/local/lib/python2.7/dist-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/home/suyash/Downloads/hello_world_1.py",
+		"/media/suyash/New Volume/Cpp/Programs/HackerRank/euler_19.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			">",
+			"login",
+			"templa",
+			"project",
+			"template",
+			"debug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/posts/views.py",
+					"settings":
+					{
+						"buffer_size": 2910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/post_list.html",
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1537,
+								1537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/post_detail.html",
+					"settings":
+					{
+						"buffer_size": 1697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/posts/forms.py",
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/posts/models.py",
+					"settings":
+					{
+						"buffer_size": 1795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/posts/urls.py",
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1100,
+								1100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
